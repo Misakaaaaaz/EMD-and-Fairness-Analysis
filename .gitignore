@@ -1,10 +1,12 @@
-# 忽略所有文件
+# Start of Selection
+# Ignore all files
 *
 
-# 取消忽略 EMD_calculator.py 和 fairness_analyzer.py
+# Do not ignore EMD_calculator.py and fairness_analyzer.py
 !EMD_calculator.py
 !fairness_analyzer.py
 !README.md
 
-# 忽略 .gitignore 文件本身
+# Ignore the .gitignore file itself
 !.gitignore
+# End of Selection
