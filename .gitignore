@@ -6,6 +6,7 @@
 !EMD_calculator.py
 !fairness_analyzer.py
 !README.md
+!Datasets with EMD and p-value (v06).xlsx
 
 # Ignore the .gitignore file itself
 !.gitignore
