@@ -1,4 +1,3 @@
-```markdown:README.md
 # EMD and Fairness Analysis
 
 This repository contains tools for analyzing fairness in machine learning models using Earth Mover's Distance (EMD) and statistical significance testing. The project includes two main components:
