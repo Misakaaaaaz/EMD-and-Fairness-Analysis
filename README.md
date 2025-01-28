@@ -65,7 +65,3 @@ analyzer.process_dataset_list('/path/to/Datasets_with_EMD_and_p-value.xlsx')
 ├── README.md                  # This file
 └── Datasets_with_EMD_and_p-value.xlsx  # Dataset list (example)
 ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
